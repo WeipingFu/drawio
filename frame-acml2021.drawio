@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2021-08-04T02:56:18.450Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" version="14.9.3" etag="qj4YfFQmuLJjqyCuvoHL" type="github"><diagram id="ckr3IFwzHtIP38Wj0wko">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-08-04T03:23:20.433Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="x2R_DtZgAs8c-XK-ITcN" version="14.9.3" type="github">
+  <diagram id="ckr3IFwzHtIP38Wj0wko" name="Page-1">
+    <mxGraphModel dx="893" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ChrVWWuQa9GCthDphiuW-1" value="Framwork = OCR Noise Simulation +&amp;nbsp;Noise Invariance Representation + Hard Example Mining&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="670" y="240" width="960" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ChrVWWuQa9GCthDphiuW-5" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="797" y="354" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ChrVWWuQa9GCthDphiuW-6" value="&lt;meta charset=&quot;utf-8&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 24px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Framwork&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="677" y="384" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ChrVWWuQa9GCthDphiuW-7" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 22px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;OCR Noise Simulation&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="860" y="330" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ChrVWWuQa9GCthDphiuW-8" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 22px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Noise Invariance Representation&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="860" y="380" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ChrVWWuQa9GCthDphiuW-9" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 22px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Hard Example Mining&amp;nbsp;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="860" y="440" width="240" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
