@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-28T15:34:20.538Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="RGdxgC0_pbR4l1lrkKXD" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-29T03:02:53.769Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="6idqSTXk8gpXVTi2cZL8" version="17.4.5" type="github">
   <diagram id="RpA1Cg-MJt5ct8pvSHY8" name="Page-1">
     <mxGraphModel dx="976" dy="568" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -34,17 +34,11 @@
         <mxCell id="Nbglk5Rz0pnrA49K8mT--10" value="&lt;font style=&quot;font-size: 16px&quot;&gt;自然语言文本&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="136" y="306" width="120" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="Nbglk5Rz0pnrA49K8mT--12" value="逻辑规则抽取" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="225" y="370" width="94" height="21" as="geometry" />
-        </mxCell>
         <mxCell id="Nbglk5Rz0pnrA49K8mT--21" value="" style="edgeStyle=none;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#000000;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="Nbglk5Rz0pnrA49K8mT--13" target="Nbglk5Rz0pnrA49K8mT--20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Nbglk5Rz0pnrA49K8mT--13" value="" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="23" y="538" width="345" height="88" as="geometry" />
-        </mxCell>
-        <mxCell id="Nbglk5Rz0pnrA49K8mT--16" value="逻辑规则表征" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="225" y="505" width="94" height="21" as="geometry" />
         </mxCell>
         <mxCell id="Nbglk5Rz0pnrA49K8mT--19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;fontColor=#000000;fillColor=#fff2cc;strokeColor=#000000;" edge="1" parent="1" source="Nbglk5Rz0pnrA49K8mT--17" target="Nbglk5Rz0pnrA49K8mT--18">
           <mxGeometry relative="1" as="geometry" />
@@ -161,9 +155,6 @@
         <mxCell id="Nbglk5Rz0pnrA49K8mT--107" value="......" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="284" y="727.95" width="30" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="Nbglk5Rz0pnrA49K8mT--108" value="逻辑规则库构建" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="223" y="634" width="108" height="21" as="geometry" />
-        </mxCell>
         <mxCell id="Nbglk5Rz0pnrA49K8mT--109" value="离线" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBorderColor=none;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="19" y="295" width="38" height="21" as="geometry" />
         </mxCell>
@@ -172,9 +163,6 @@
         </mxCell>
         <mxCell id="Nbglk5Rz0pnrA49K8mT--110" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=15;fontColor=#333333;strokeColor=#666666;strokeWidth=1;fillColor=#f5f5f5;" vertex="1" parent="1">
           <mxGeometry x="424" y="408" width="344" height="183" as="geometry" />
-        </mxCell>
-        <mxCell id="Nbglk5Rz0pnrA49K8mT--114" value="问题分解" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="632" y="368" width="66" height="21" as="geometry" />
         </mxCell>
         <mxCell id="Nbglk5Rz0pnrA49K8mT--121" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="Nbglk5Rz0pnrA49K8mT--118" target="Nbglk5Rz0pnrA49K8mT--119">
           <mxGeometry relative="1" as="geometry" />
@@ -277,9 +265,6 @@
         <mxCell id="Nbglk5Rz0pnrA49K8mT--174" value="" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="423" y="637" width="346" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="Nbglk5Rz0pnrA49K8mT--176" value="子问题依次求解" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="632" y="603" width="108" height="21" as="geometry" />
-        </mxCell>
         <mxCell id="Nbglk5Rz0pnrA49K8mT--179" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;fontColor=#000000;" edge="1" parent="1" source="Nbglk5Rz0pnrA49K8mT--177" target="Nbglk5Rz0pnrA49K8mT--178">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -319,6 +304,21 @@
         </mxCell>
         <mxCell id="Nbglk5Rz0pnrA49K8mT--204" value="在线" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBorderColor=none;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="420" y="295" width="38" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="Nbglk5Rz0pnrA49K8mT--208" value="逻辑规则库构建" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=14;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="226" y="637" width="113" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="Nbglk5Rz0pnrA49K8mT--209" value="逻辑规则表征" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=14;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="226" y="504.45" width="113" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="Nbglk5Rz0pnrA49K8mT--210" value="逻辑规则抽取" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=14;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="226" y="371" width="113" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="Nbglk5Rz0pnrA49K8mT--212" value="子问题依次求解" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=14;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="624" y="603" width="113" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="Nbglk5Rz0pnrA49K8mT--213" value="原问题分解" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=14;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="624" y="367" width="113" height="21" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
